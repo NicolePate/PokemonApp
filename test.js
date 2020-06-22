@@ -1,7 +1,4 @@
-// window.onload = function() {
-// pokemon = [];
 
-// //Pokemon stat = pokemon[0].stats[1].base_stat    <-----attack
 
 // const getPokemonLeft = () => {
 //     fetch('https://pokeapi.co/api/v2/pokemon')
